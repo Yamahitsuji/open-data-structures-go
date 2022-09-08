@@ -1,2 +1,2 @@
 # open-data-structures-go
-golang codes of Open Data Structures
+みんなのデータ構造（[Open Data Structures](http://opendatastructures.org/)）のアルゴリズムをGoで実装したものです。
